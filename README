@@ -16,3 +16,13 @@ several of them using the Restructured Text markup notation.
 Please read the Documentation/process/changes.rst file, as it contains the
 requirements for building and running the kernel, and information about
 the problems which may result by upgrading your kernel.
+
+============
+
+本项目为江苏大学2022级计算机学院操作系统课程设计指南，可以为后续学弟学妹起到一定借鉴作用
+
+本指南是笔者在完成课设两个月后写成的，可能会遗漏一些配置环境上的细节问题，欢迎使用issue功能提出问题
+
+============
+
+# 正文
