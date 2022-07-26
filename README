@@ -35,4 +35,4 @@ the problems which may result by upgrading your kernel.
 
 请看下图，高地址是内核空间，是操作系统内核独占的，低地址是用户空间（当然这么说只是笼统泛泛而谈的，实际情况会复杂很多，请自行搜索了解）
 
-![img](readmeSrc/未命名绘图.jpg)
+![img](./readmeSrc/未命名绘图.jpg)
